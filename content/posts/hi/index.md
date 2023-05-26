@@ -46,6 +46,31 @@ Inzwischen ist es spät und Lorenzetti will nun nach Hause. Auch das gemeinsame 
 
 {{<box>}}
 
-hi
+André Lorenzetti wurde am 22.Juni.1966 in Santander, Spanien als Sohn eines Sekundarlehrers und einer Primarlehrerin geboren. Nach der obligatorischen Schulzeit machte er die Matura Typus C an der Kantonsschule Schaffhausen. Anschliessend studierte er Mathematik, Chemie und Musik an der Universität und dem Konservatorium Bern. Zuerst arbeitete André Lorenzetti 16 Jahre lang als Lehrer der Stufe Sek I, bevor er dann ans Gymnasium Interlaken wechselte. Dort stieg er schlussendlich bis zum Rektor auf, ehe er 2013 Abteilungsleiter MN am Gymer Kirchenfeld wurde und seit 2022 ist er nun als Rektor das gesamtverantwortliche Mitglied der Schulleitung am Gymnasium Kirchenfeld. Zudem ist André Lorenzetti seit 2020 Vorsitzender der Konferenz der Schulleitungen der Agglomeration Bern und seit 2021 Mitglied des Vorstandes der Konferenz der Schweizerischen Gymnasialrektor*innen. Parallel dazu ist er immer noch im Militär als Kommunikations- und Managementtrainer tätig und leitet da mehrmals jährlich Krisenmanagementtrainings.
 
 {{</box>}}
+
+{{<box}}
+
+Reporter*innenteam: Sie haben ja sehr viel gemacht in ihrem Leben, aber wie genau hat ihre Karriere angefangen?
+
+
+André Lorenzetti: Ich habe nicht den Eindruck eine Karriere gemacht zu haben. Ich habe einfach immer „ja“ gesagt, oder mich ab und zu angeboten. \[…] Und ich habe auch nicht den Eindruck, Rektor sein sei etwas Besonderes. Es ist eine vorgegebene Rolle, in der in mich einigermassen, nein, sehr wohl fühle. Aber ich könnte auch andere Dinge machen und bin der felsenfesten Überzeugung, dass andere Personen diese Rolle ebenso gut oder sogar noch besser ausfüllen würden. Der Beginn, wenn man so will, ist fast unmöglich festzumachen, denn vermutlich sind alle Erfahrungen mehr oder weniger wertvoll gewesen, um diese spannende Arbeit machen zu können.
+
+
+R: Sie sind im Militär immer noch sehr aktiv, sind gleichzeitig Rektor und Musiklehrer, spielen Trompete haben einen eigenen Chor. Wie bringen sie da alles unter einen Hut?
+
+
+Loa: Also ehrlich gesagt gar nicht: Der Tag hat zu wenig Stunden, die Wochen zu wenig Tage, das Jahr zu wenig Wochen. Es ist wirklich schwierig genug Zeit für alles zu finden, daher geht es darum, innerhalb eines Jahres eine vernünftige Balance zu finden. Die Monokultur, das tut mir nicht gut und deshalb sorge ich in der langfristigen Planung auch dafür, dass es einiger-massen ausgeglichen ist.
+
+
+R: Würden sie sagen, dass Sie als Rektor eher ein Einzelkämpfer oder ein Teamplayer sein müssen?
+Loa: Unbedingt beides. In gewissen Situationen ist man allein, einsam, auf sich selbst gestellt und das muss man aushalten können. Noch besser ist es, wenn das einem auch gefällt. Und dann ist man gleichzeitig Teamplayer. Wir sind 10 Rektoren im Kanton Bern, die ein Team bilden, \[…] wir sind hier ein Team, deshalb unbedingt beides. Und das Gute ist, ich bin für beides ausgebildet.
+
+
+R: Sie besuchen ja viel auch die Schüler*innen, wie wichtig ist das Ihnen?
+
+
+Loa: Das ist mir enorm wichtig, denn die Schüler\*innen sind das Wichtigste an der Schule. Ich habe gehört, dass sie im MN-Lehrerzimmer gefragt haben sollen: „Ja, interessiert der sich überhaupt für uns? Der geht ja immer zu den Schüler\*innen.“ Ja, ich interessierten mich auch für die Lehrpersonen, aber tatsächlich sind mir die Schüler*innen noch ein bisschen wichtiger. Denn wir alle, auch die Lehrpersonen, sind ja da, damit sie ihre Ziele erreichen können.
+
+{{</box}}
