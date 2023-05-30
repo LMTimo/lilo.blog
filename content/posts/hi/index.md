@@ -48,13 +48,13 @@ Andererseits ist er auch sportlich sehr aktiv. Diesbezüglich sei der Lockdown s
 
 Inzwischen ist es spät und Lorenzetti will nun nach Hause. Auch das gemeinsame Abendessen mit seiner Frau hat für ihn einen hohen Stellenwert. „Das Abendessen ist die Zeit, wo wir zum Sprechen kommen.“ Eine abschliessende Frage liegt aber noch drin: Wo er den Gymer in fünf Jahren sehe und was seine Ziele bis dann seien. Ziel Nummer 1 sei und bleibe möglichst gute Rahmenbedingungen für die Schüler\*innen zu schaffen. Sehr aktuell geht es darum, mehr Schulraum zu finden, denn der Gymer Kirchenfeld ist eigentlich viel zu klein für so viele Schüler\*innen. Speziell komme noch das 100-jährige Jubiläum des Gymnasiums Kirchenfeld im Jahr 2026 dazu und natürliche sei auch eines der Ziele, zu diesem Anlass ein schönes Fest zu organisieren. Zudem wolle er die Schulleitung so aufbauen, dass sie das Tagesgeschäft allein bewältigen könne und der Rektor vor allem mit der Ressourcenplanung, dem „Außenministerium“ und intern mit Sonderfällen beschäftigt sei. Also mit all diesen Fällen, die viel Arbeit und Flexibilität erfordern. Die Fälle, die wie geschaffen sind für Lorenzetti.
 
-{{<box>}}
+{{<box title="Werdegang">}}
 
 André Lorenzetti wurde am 22.Juni.1966 in Santander, Spanien als Sohn eines Sekundarlehrers und einer Primarlehrerin geboren. Nach der obligatorischen Schulzeit machte er die Matura Typus C an der Kantonsschule Schaffhausen. Anschliessend studierte er Mathematik, Chemie und Musik an der Universität und dem Konservatorium Bern. Zuerst arbeitete André Lorenzetti 16 Jahre lang als Lehrer der Stufe Sek I, bevor er dann ans Gymnasium Interlaken wechselte. Dort stieg er schlussendlich bis zum Rektor auf, ehe er 2013 Abteilungsleiter MN am Gymer Kirchenfeld wurde und seit 2022 ist er nun als Rektor das gesamtverantwortliche Mitglied der Schulleitung am Gymnasium Kirchenfeld. Zudem ist André Lorenzetti seit 2020 Vorsitzender der Konferenz der Schulleitungen der Agglomeration Bern und seit 2021 Mitglied des Vorstandes der Konferenz der Schweizerischen Gymnasialrektor*innen. Parallel dazu ist er immer noch im Militär als Kommunikations- und Managementtrainer tätig und leitet da mehrmals jährlich Krisenmanagementtrainings.
 
 {{</box>}}
 
-{{<box>}}
+{{<box title="Interview-Auszug">}}
 
 Reporter*innenteam: Sie haben ja sehr viel gemacht in ihrem Leben, aber wie genau hat ihre Karriere angefangen?
 
