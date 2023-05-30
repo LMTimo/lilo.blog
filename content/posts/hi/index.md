@@ -7,11 +7,7 @@ image = "bild1-1-1-1-1-1-1-.png"
 +++
 ![](bild1-1-.png)
 
-{{<lead>}}
-
 Jeder kennt den Rektor unseres Schulhauses, jeder sieht ihn ab und zu durch die Gänge laufen und grüsst ihn freundlich. Aber wer ist der Mann eigentlich, der die Geschicke unsere Schule leitet? Ein Reporter*innenteam hat André Lorenzetti durch einen Arbeitstag begleitet.
-
-{{</lead>}}
 
 Es ist 5.45 Uhr in Oberdiessbach, als André Lorenzettis Wecker klingelt. Da Rektor des Gymnasiums Kirchenfeld etwas abgelegen von Bern wohnt, hat er einen ziemlich langen Arbeitsweg. Damit der Sport nicht zu kurz kommt, fährt er 45 min mit seinem äusserst eleganten Liegevelo zum Gymnasium Kirchenfeld. Lorenzetti ist jeweils einer der ersten, die im Schulhaus sind. Als er im Büro ankommt, liegt bereits ein Berg Pendenzen vor ihm, den er heute abarbeiten sollte. Der Rektor hat aber nur begrenzt Zeit, denn seine Assistentin hat bereits viele Termine für den Tag geplant. Um in eine gute Arbeitsstimmung zu kommen, spielt Lorenzetti gerne Musik ab. Er kann aber zum Arbeiten nur Musik hören, die er kennt und bei denen er nicht auf die Lyrics achtet. Zuerst ordnet Lorenzetti alle Pendenzen und erstellt dann einen Zeitplan, um die Lücken zwischen den Terminen effektiv nutzen zu können. Diesen Zeitplan inklusive Pausen hält er sehr genau ein, nach der einberechneten Zeit müssen die Pendenzen jeweils abgearbeitet sein. Er könnte, wie wohl alle Menschen, die Dinge noch besser machen, aber die Zeit, die ihm zur Verfügung steht, bestimmt die Qualität seiner Arbeit.
 
