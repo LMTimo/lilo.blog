@@ -11,7 +11,7 @@ Am Gymnasium Kirchenfeld kennen ihn alle: André Lorenzetti, den Rektor der Schu
 
 {{</lead>}}
 
-![](bild1-1-.png)
+![Titelbild 1: André Lorenzetti mit seinem Liegevelo vor einem Eingang des Gymnasiums Kirchenfeld; Foto: Melinda Widler](bild1-1-.png)
 
 Es ist 5.45 Uhr in Oberdiessbach, als André Lorenzettis Wecker klingelt. Da der Rektor des Gymnasiums Kirchenfeld ca. 25 Kilometer von Bern entfernt wohnt, hat er einen ziemlich langen Arbeitsweg. Damit der Sport nicht zu kurz kommt, fährt er 45 Minuten mit seinem eleganten Liegevelo zum Gymnasium Kirchenfeld. Lorenzetti ist jeweils einer der ersten, die im Schulhaus sind. Wenn er im Büro ankommt, liegt bereits ein Berg Pendenzen auf dem Schreibtisch, den er heute abarbeiten sollte. Der Rektor hat aber nur begrenzt Zeit, denn seine Assistentin hat bereits viele Termine für den Tag eingeplant. Um in eine gute Arbeitsstimmung zu kommen, spielt Lorenzetti gerne Musik ab. Er kann aber zum Arbeiten nur Musik hören, die er kennt und bei denen er nicht auf die Lyrics achtet. Zuerst ordnet Lorenzetti alle Pendenzen und erstellt dann einen Zeitplan, um die Lücken zwischen den Terminen effektiv nutzen zu können. Diesen Zeitplan inklusive Pausen hält er sehr genau ein, nach der einberechneten Zeit müssen die Pendenzen jeweils abgearbeitet sein. Er könne, wie wohl alle Menschen, die Dinge noch besser machen, aber die Zeit, die ihm zur Verfügung stehe, bestimme die Qualität seiner Arbeit, meint Lorenzetti.
 
