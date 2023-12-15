@@ -12,6 +12,8 @@ Das Thema Kritisches Denken ist von grosser Bedeutung in der heutigen Zeit. Viel
 
 {{</lead>}}
 
+![](https://www.skeptiker.ch/wp-content/uploads/2014/05/Rodin-Denker-2.jpg "https://www.skeptiker.ch/wp-content/uploads/2014/05/Rodin-Denker-2.jpg")
+
 ##### Kritisches Denken im Schulunterricht
 
 Im Rahmen des Deutschunterrichts haben wir uns am Gymnasium mit dem Kritischen Denken auseinandergesetzt. Dazu muss erst der Begriff Kritisches Denken definiert werden: Kritisches Denken ist eine metakognitive Fähigkeit für die Auswertung von Wahrheitsbehauptungen. Dabei geht darum, logische Fehlschlüsse und kognitive Verzerrungen zu minimieren und zu einer sog. probabilistischen
