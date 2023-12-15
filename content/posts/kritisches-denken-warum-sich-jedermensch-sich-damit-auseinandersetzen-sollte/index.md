@@ -1,7 +1,7 @@
 +++
 title = "Kritisches Denken - Warum sich jedermensch sich damit auseinandersetzen sollte "
 date = "2023-12-15"
-draft = true
+draft = false
 pinned = false
 tags = ["KritischesDenken", "Deutsch", "Unterricht"]
 image = "https://www.skeptiker.ch/wp-content/uploads/2014/05/Rodin-Denker-2.jpg"
