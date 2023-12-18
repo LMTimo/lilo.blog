@@ -12,7 +12,7 @@ Das Thema Kritisches Denken ist von grosser Bedeutung in der heutigen Zeit. Heut
 
 {{</lead>}}
 
-![](https://www.skeptiker.ch/wp-content/uploads/2014/05/Rodin-Denker-2.jpg "https://www.skeptiker.ch/wp-content/uploads/2014/05/Rodin-Denker-2.jpg")
+![https://www.skeptiker.ch/wp-content/uploads/2014/05/Rodin-Denker-2.jpg](https://www.skeptiker.ch/wp-content/uploads/2014/05/Rodin-Denker-2.jpg "https://www.skeptiker.ch/wp-content/uploads/2014/05/Rodin-Denker-2.jpg")
 
 ##### Kritisches Denken im Schulunterricht
 
@@ -37,7 +37,3 @@ Der Mensch steht momentan vor so noch nie dagewesenen Problemen. Ebendiese zu l�
 Natürlich ist es utopisch, dass alle in allen Themen fehlerfrei kritisch denken. Rein ressourcentechnisch ist das nicht möglich, Kritisches Denken nimmt dazu zu viel Zeit in Anspruch. Jede Person, die Kritisches Denken selbst anzuwenden versucht, wird das bestätigen können. Was allerdings für jede Person, welche den Anspruch hat in der Politik mitdiskutieren zu wollen, machbar sein sollte, ist sich in den für sie wichtigsten Themen zu informieren und in diesen Themen kritisch zu denken. Und deshalb ist es wichtig, dass jede Person sich einmal mit Kritischem Denken auseinandersetzt.
 
 Nun, der Mensch steht vor Problemen und wird hoffentlich tun, was er bisher immer getan hat: Sie lösen. Dazu wird wohl kaum ein Weg um das Kritische Denken herumführen. Deshalb ist es berechtigt, Kritisches Denken als bedeutsam zu deklarieren. Wer sich also bereits jetzt mit Kritischem Denken auseinandersetzt und sich die Mühe macht, es anzuwenden, ist seiner Zeit voraus und wird einen Beitrag zur Lösung grosser Probleme leisten können.
-
-
-
-Bildquelle: <https://www.skeptiker.ch/wp-content/uploads/2014/05/Rodin-Denker-2.jpg>
