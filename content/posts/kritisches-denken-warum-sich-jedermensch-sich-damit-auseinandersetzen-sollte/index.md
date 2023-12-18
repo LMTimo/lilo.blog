@@ -1,5 +1,5 @@
 +++
-title = "Kritisches Denken - Warum sich jedermensch sich damit auseinandersetzen sollte "
+title = "Kritisches Denken - Warum sich jedermensch damit auseinandersetzen sollte "
 date = "2023-12-15"
 draft = false
 pinned = false
