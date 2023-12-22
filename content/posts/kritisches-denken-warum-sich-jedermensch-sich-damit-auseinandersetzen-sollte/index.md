@@ -4,7 +4,7 @@ date = "2023-12-15"
 draft = false
 pinned = false
 tags = ["KritischesDenken", "Deutsch", "Unterricht"]
-image = "https://www.skeptiker.ch/wp-content/uploads/2014/05/Rodin-Denker-2.jpg"
+image = "rodin-denker-2.jpg"
 +++
 {{<lead>}}
 
