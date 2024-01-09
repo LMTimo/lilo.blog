@@ -24,22 +24,17 @@ perspective sur le sujet.
 
 ##### Résumé courte (sans spoiling)
 
-
 Il y a deux histoires qui se finalement croissent avec un personnage principal pour chaque
 perspective. Un de les deux est Salvator Piracci, un commandent qui habite à Catane (Sicile). Il est un
 officier de marine et surveille les illégales immigrants clandestins qui arrivent à Lampedusa.
 Soleiman et Jamal sont des frères qui habitent à l'Afrique du Nord. Ils quittent ses vies en Afrique et
 essayent d’aller à l’Europe .
 
-
 ##### Microanalyse
-
 
 Avec cette livre, Laurent Gaudé nous montre l’intérieur des réfugiés. Il veut rendre la dignité à les milles réfugiés. Il nous montre l’histoire avec deux portraits qui s’opposent. Avec ça, il montre diffèrent perspectives sur la souffrance des personnes qui traversent le méditerranée.
 
-##### 
-Jugement global et la recommandation du groupe
-
+##### Jugement global et la recommandation du groupe
 
 Globalement nous recommandons le livre Eldorado. Nous avons bien compris le texte, mais il avait
 quelques mots que nous devions traduire. L’action contient de suspense, le livre est intéréssant.
