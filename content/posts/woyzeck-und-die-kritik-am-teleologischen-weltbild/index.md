@@ -3,7 +3,7 @@ title = "Woyzeck und die Kritik am teleologischen Weltbild"
 date = "2024-04-20"
 draft = false
 pinned = false
-tags = ["deutsch", "woyzeck"]
+tags = ["Deutsch", "Woyzeck"]
 +++
 Wir, die Klasse M25c, haben im Rahmen des Deutschunterrichts das Theaterstück Woyzeck, geschrieben von Georg Büchner im Jahre 1836, gelesen. Dabei begannen wir zunächst die ersten Szenen textimmanent, sprich nur mithilfe des Textes, zu besprechen, analysieren und interpretieren. Bald haben wir den Rahmen aber ausgedehnt und einen Input zum Deutschen Idealismus erhalten. Damit konnten wir das Werk Woyzeck auch noch textübergreifend deuten.
 
