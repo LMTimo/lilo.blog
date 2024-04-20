@@ -1,7 +1,7 @@
 +++
 title = "Woyzeck und die Kritik am teleologischen Weltbild"
 date = "2024-04-20"
-draft = true
+draft = false
 pinned = false
 tags = ["deutsch", "woyzeck"]
 +++
