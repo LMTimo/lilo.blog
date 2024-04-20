@@ -5,6 +5,12 @@ draft = false
 pinned = false
 tags = ["Deutsch", "Woyzeck"]
 +++
+{{<lead>}}
+
+Georg Büchners Werk Woyzeck ist einer der Klassiker schlechthin. Ein Unterrichtsbericht und eine Diskussion über das teleologische Weltbild zeigen auf, welche Rolle Woyzeck auch heute noch spielt.
+
+{{</lead>}}
+
 ![https://medien.umbreitkatalog.de/bildzentrale_original/978/387/291/1476.jpg](https://medien.umbreitkatalog.de/bildzentrale_original/978/387/291/1476.jpg)
 
 Wir, die Klasse M25c, haben im Rahmen des Deutschunterrichts das Theaterstück Woyzeck, geschrieben von Georg Büchner im Jahre 1836, gelesen. Dabei begannen wir zunächst die ersten Szenen textimmanent, sprich nur mithilfe des Textes, zu besprechen, analysieren und interpretieren. Bald haben wir den Rahmen aber ausgedehnt und einen Input zum Deutschen Idealismus erhalten. Damit konnten wir das Werk Woyzeck auch noch textübergreifend deuten.
