@@ -5,6 +5,8 @@ draft = false
 pinned = false
 tags = ["Deutsch", "Woyzeck"]
 +++
+![https://medien.umbreitkatalog.de/bildzentrale_original/978/387/291/1476.jpg](https://medien.umbreitkatalog.de/bildzentrale_original/978/387/291/1476.jpg)
+
 Wir, die Klasse M25c, haben im Rahmen des Deutschunterrichts das Theaterstück Woyzeck, geschrieben von Georg Büchner im Jahre 1836, gelesen. Dabei begannen wir zunächst die ersten Szenen textimmanent, sprich nur mithilfe des Textes, zu besprechen, analysieren und interpretieren. Bald haben wir den Rahmen aber ausgedehnt und einen Input zum Deutschen Idealismus erhalten. Damit konnten wir das Werk Woyzeck auch noch textübergreifend deuten.
 
 Während der Besprechung der ersten Szenen ist aufgefallen, dass sich die Szenenanordnung in den Ausgaben von uns Schüler und Schülerinnen von der Szenenanordnung der Ausgabe der Lehrperson unterscheiden. Dies ist möglich, da Woyzeck zum Zeitpunkt des Todes Büchners noch nicht fertiggestellt war und deshalb nur Fragmente von Woyzeck existieren. Diese Fragmente haben keine vorgegebene Reihenfolge und daher sind verschiedene Anordnungen möglich, auch wenn diese den Fokus des Textes verändern können. Wir haben besprochen, dass in der älteren Ausgabe durch die Exposition der Themenschwerpunkt auf Woyzecks materielle Probleme gelegt wird. Bei der neueren Ausgabe der Lehrperson hingegen liegt der Schwerpunkt auf Woyzecks psychischen Problemen. Je nach Anordnung geht es im Text also um die materiellen oder psychischen Probleme, die die Leute aus der Unterschicht im frühen 19. Jahrhundert hatten. Dies war damals eine Neuheit, da Büchners Woyzeck eines der ersten Theaterstücke ist, bei denen der tragische Held aus der Unterschicht stammt. Das war ein Bruch mit der Theorie des aristotelischen Dramas.
