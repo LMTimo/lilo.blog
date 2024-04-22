@@ -4,6 +4,7 @@ date = "2024-04-20"
 draft = false
 pinned = false
 tags = ["Deutsch", "Woyzeck"]
+image = "https://medien.umbreitkatalog.de/bildzentrale_original/978/387/291/1476.jpg"
 +++
 {{<lead>}}
 
