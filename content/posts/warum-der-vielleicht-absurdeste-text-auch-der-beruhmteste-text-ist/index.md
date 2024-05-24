@@ -6,6 +6,12 @@ pinned = false
 tags = ["deutsch", "kafka", "verwandlung"]
 image = "https://images.bod.com/images/die-verwandlung-franz-kafka-9783752859461.jpg/500/500/Die_Verwandlung.webp"
 +++
+{{<lead>}}
+
+Franz Kafkas Werk "Die Verwandlung" gehört zu den bedeutensten Werken der Deutschen Literatur. Doch warum ist genau diese Erzählung so bedeutend geworden und was machen heutige Schulklassen damit?
+
+{{</lead>}}
+
 ![https://images.bod.com/images/die-verwandlung-franz-kafka-9783752859461.jpg/500/500/Die_Verwandlung.webp](https://images.bod.com/images/die-verwandlung-franz-kafka-9783752859461.jpg/500/500/Die_Verwandlung.webp)
 
 Im Unterricht hat meine Klasse, die M25c, die Erzählung «Die Verwandlung» von Franz Kafka gelesen. «Die Verwandlung» wurde im Jahre 1912 geschrieben. Zuerst haben wir eine Einführung zu Franz Kafka erhalten, um uns der Bedeutung der Werke Franz Kafkas bewusst zu werden. Anschliessend haben wir die Erzählung in der Klasse besprochen. Der Höhepunkt der Unterrichtseinheit zu «Die Verwandlung» war allerdings ein Vortrag des Kafka-Kenners par excellence Reiner Stach. Diesen durften wir als kleine Exkursion an der Universität Bern hören gehen.
@@ -32,10 +38,9 @@ Welt gerade mit der zunehmenden Globalisierung gut spürbar. Insofern spricht de
 Ein Element, das die Texte Kafkas ebenfalls ausmacht, ist eine Art Traumlogik. Die Verwandlung Gregors in ein Ungeziefer oder die grundlose Verhaftung der Hauptperson in «Der Prozess» sind nicht rational und realistisch. Jedoch passen alle anderen Elemente der Geschichte gut in unsere Welt. Die Erzählung ist also grundsätzlich realistisch, beinhaltet aber oft die Hauptperson betreffende surreale Elemente. Zudem befindet sich die Hauptfigur selbst irgendwo zwischen dem Realistischen und Unrealistischen. So versucht Gregor beispielsweise seine Beinchen und sein fetter Leib aus dem Bett zu bekommen, um den Zug nicht zu verpassen. Diese Diskrepanz zwischen den realen und surrealen Elementen verursacht einerseits diese Absurdität des Textes, andererseits ruft sie bei den meisten Menschen ein bekanntes Gefühl hervor. Denn diese Erzählungen von Kafka sind eigentlich verschriftliche Albträume. Wohl schon fast alle waren auch einmal in der Situation, in einem schrecklichen Traum gefangen zu sein, der so skurril ist, dass es nur ein Traum sein kann, ohne dies im Traum zu realisieren. Und genau dieses Gefühl verarbeitet Kafka in seiner Erzählung und schafft somit eine starke Bindung zu der Leserschaft.
 Ein weiterer Aspekt der zur Popularität der Erzählung «Die Verwandlung» beigetragen hat, ist der fast uneingeschränkte Interpretationsspielraum, den «Die Verwandlung» bietet. Auf der Bedeutungsebene ist dieser Text gerade durch dessen Absurdität schwer verständlich, was dazu führt, dass kaum eine dominante Lesart existiert. Vielmehr gibt es verschiedene Ansätze zur Interpretation dieses Textes: Von einer Verarbeitung zwischenmenschlicher Beziehungen, zunehmender Isolation und Entfremdung oder einer grundsätzlichen Kritik an der Arbeitswelt. Daraus kann sich dann die lesende Person eine eigene Deutung zusammenstellen, die die persönlichen Erfahrungen dieser Person inkludiert. Dies ist ein wesentlicher Unterschied zu einem Text mit einer allgemein bekannten, dominanten Lesart, wo die lesende Person weniger Möglichkeiten hat, ihre eigenen Erfahrungen einzuarbeiten.
 
-
 Insgesamt tragen also verschiedene Faktoren dazu bei, dass viele Kafkas Texte emotional aufnehmen und persönlich verarbeiten können. Diese einzigartige Mischung an Zeitlosigkeit, der eingewobenen Traumlogik und der Interpretationsfreiheit machen Kafkas Texte zu den bedeutendsten Werken der Deutschen Literatur. Dabei spielt es dann keine Rolle, nein, vielleicht hilft es sogar, dass dieser Text einem so verrückt und surreal anmutet.
 
-{{<box title="">}}
+{{<box title="Metatext">}}
 
 Die im Unterricht durchgeführte écriture automatique hat mich von meinem ursprünglichen Thema zur Weiterentwicklung der Unterrichtseinheit abgebracht und stattdessen zu dem jetzigen Resultat geführt. Schlussendlich hatte ich bei der Darstellung des Unterrichts mehr Mühe als bei der Weiterentwicklung. Auch wenn das Thema der Weiterentwicklung simpel erscheinen mag, so habe ich doch das Gefühl, dass ich diesen Weg vom Unverständnis über die verschiedenen Punkte zum Verstehen der Frage, wieso Kafkas Texte so berühmt sind, selbst gemacht habe. Diese Weiterentwicklung ist eine Weiterentwicklung, die bei mir so tatsächlich stattgefunden hat. Aus diesem Grund bin ich mit dem entstandenen Text relativ zufrieden. Als Quellen habe ich vor allem Rainer Stachs Vortrag zu Kafkas Begabungen verwendet, zudem half mir der Artikel von Studyflix weiter (https://studyflix.de/deutsch/die-verwandlung-interpretation-3879).
 
