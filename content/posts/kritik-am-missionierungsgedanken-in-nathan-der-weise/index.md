@@ -1,7 +1,7 @@
 +++
 title = "Kritik am Missionierungsgedanken in 'Nathan der Weise'"
 date = "2024-10-28"
-draft = true
+draft = false
 pinned = false
 tags = ["deutsch", "unterricht", "lessing", "nathanderweise"]
 +++
